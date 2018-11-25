@@ -1,0 +1,165 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 05, 2016, 19:16:15 PM
+    Author     : tcagla
+*/
+/*
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="text"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+*/
+/*
+.nav {
+    margin-bottom: 18px;
+    margin-left: 0;
+    list-style: none;
+}
+
+.nav > li > a {
+    display: block;
+}
+
+.nav-pills{
+    *zoom: 1;
+}
+
+.nav-pills:before,
+.nav-pills:after {
+    display: table;
+    content: "";
+}
+
+.nav-pills:after {
+    clear: both;
+}
+
+.nav-pills > li {
+    float: left;
+}
+
+.nav-pills > li > a {
+    padding-right: 12px;
+    padding-left: 12px;
+    margin-right: 2px;
+    line-height: 14px;
+}
+
+.nav-pills {
+    border-bottom: 1px solid #ddd;
+}
+
+.nav-pills > li {
+    margin-bottom: -1px;
+}
+
+.nav-pills > li > a {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    line-height: 18px;
+    border: 1px solid transparent;
+        -webkit-border-radius: 4px 4px 0 0;
+        -moz-border-radius: 4px 4px 0 0;
+    border-radius: 4px 4px 0 0;
+}
+
+.nav-pills > li > a:hover {
+    border-color: #eeeeee #eeeeee #dddddd;
+}
+
+.nav-pills > .active > a,
+.nav-pills > .active > a:hover {
+    color: #555555;
+    cursor: default;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+
+li {
+    line-height: 18px;
+}
+
+.pills-content.active{
+    display: block;
+}
+
+.pills-content.hide{
+    display: none;
+}
+
+*/
+
+
+  body {
+  padding : 10px ;
+}
+
+
+
+.tab-content {
+  color : black;
+  background-color: #428bca;
+  padding : 5px 15px;
+  //text-decoration: black;
+}
+
+.nav-pills > li > a {
+    border-radius: 0;
+  //     -webkit-border-radius: 0;
+//-moz-border-radius: 0; 
+//background-color: #4cae4c;
+}
+
+/*
+div.form-group.input.form-control{
+    background-color: black;
+    
+} */
